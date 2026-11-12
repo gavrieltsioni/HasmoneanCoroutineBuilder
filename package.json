@@ -1,0 +1,10 @@
+{
+  "name": "com.hasmonean.coroutinebuilder",
+  "version": "1.0.0",
+  "displayName": "Coroutine Builder",
+  "description": "Tool for building coroutines.",
+  "unity": "2022.3",
+  "author": {
+    "name": "Hasmonean"
+  }
+}

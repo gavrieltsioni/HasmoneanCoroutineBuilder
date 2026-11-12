@@ -1,0 +1,14 @@
+{
+    "name": "Hasmonean.CoroutineBuilder",
+    "rootNamespace": "Hasmonean.CoroutineBuilder",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
